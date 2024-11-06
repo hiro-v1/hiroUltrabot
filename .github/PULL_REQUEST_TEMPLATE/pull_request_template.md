@@ -1,9 +1,8 @@
-# Title
+# Keterangan
 
 ### Detailed Description [Optional] :
-detailed_description_here
+UltraBotHiro adalah versi ke2 hiroBotv1
+@hiro_v1
 
-### Issue Number [Optional] :
-Issue Number here if your pull request close any issue or is linked to.
 
 ----
